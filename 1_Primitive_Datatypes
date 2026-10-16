@@ -1,0 +1,16 @@
+var FN = "Jasmine"
+console.log(FN)
+console.log (typeof FN)
+var Company = "CTS"
+console.log(Company)
+console.log (typeof Company)
+var phonenumber = 12345
+console.log(phonenumber)
+console.log (typeof phonenumber)
+var isautomation = "No"
+console.log(isautomation)
+console.log (typeof isautomation)
+var hasplaywright
+console.log(hasplaywright)
+console.log (typeof hasplaywright)
+
